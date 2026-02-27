@@ -1,0 +1,10 @@
+EYECLIP PERFORMANCE REPORT
+==========================
+Accuracy:  0.7405
+F1-Score:  0.6355
+Mean IoU:  0.5214
+
+IoU per Class:
+ - Background: 0.9387
+ - Inactive (Scar): 0.5004
+ - Active (Inflam): 0.1250
