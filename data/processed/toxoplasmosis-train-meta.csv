@@ -1,0 +1,330 @@
+,imgpath,subject_id,report,healthy,active,inactive,Source
+323,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0335RE.JPG,OD0335RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+69,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/70.jpg,70,,1,0,0,Hospital de Clínicas Medical Center
+107,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/109.jpg,109,,0,0,1,Hospital de Clínicas Medical Center
+58,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/59.jpg,59,,1,0,0,Hospital de Clínicas Medical Center
+402,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0640RE.JPG,OD0640RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+151,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/153.jpg,153,,0,0,1,Hospital de Clínicas Medical Center
+364,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0538RE.JPG,OD0538RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+361,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0528RE.JPG,OD0528RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+197,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/857.jpg,857,,0,1,0,Hospital de Clínicas Medical Center
+315,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0383RE.JPG,OD0383RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+199,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/879.jpg,879,,0,0,1,Hospital de Clínicas Medical Center
+16,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/17.jpg,17,,1,0,0,Hospital de Clínicas Medical Center
+343,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0483RE.JPG,OS0483RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+389,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0573RE.JPG,OS0573RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+306,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/18107.jpg,18107,,0,0,1,Hospital de Clínicas Medical Center
+397,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0592RE.JPG,OS0592RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+70,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/71.jpg,71,,1,0,0,Hospital de Clínicas Medical Center
+344,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0484RE.JPG,OS0484RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+301,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0295RE.JPG,OD0295RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+274,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/17117.jpg,17117,,0,1,0,Hospital de Clínicas Medical Center
+349,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0493RE.JPG,OS0493RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+2,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/3.jpg,3,,1,0,0,Hospital de Clínicas Medical Center
+290,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/17619.jpg,17619,,0,0,1,Hospital de Clínicas Medical Center
+80,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/81.jpg,81,,0,0,1,Hospital de Clínicas Medical Center
+177,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/474.jpg,474,,0,0,1,Hospital de Clínicas Medical Center
+386,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0563RE.JPG,OS0563RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+330,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0415RE.JPG,OS0415RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+309,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/18246.jpg,18246,,0,1,0,Hospital de Clínicas Medical Center
+347,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0490RE.JPG,OS0490RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+145,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/147.jpg,147,,0,0,1,Hospital de Clínicas Medical Center
+201,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/947.jpg,947,,0,0,1,Hospital de Clínicas Medical Center
+132,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/134.jpg,134,,0,0,1,Hospital de Clínicas Medical Center
+119,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/121.jpg,121,,0,0,1,Hospital de Clínicas Medical Center
+97,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/99.jpg,99,,0,0,1,Hospital de Clínicas Medical Center
+279,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/IM0228RE.JPG,IM0228RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+200,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/943.jpg,943,,0,1,0,Hospital de Clínicas Medical Center
+381,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0550RE.JPG,OS0550RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+383,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0557RE.JPG,OS0557RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+190,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/696.jpg,696,,0,0,1,Hospital de Clínicas Medical Center
+247,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/14937.jpg,14937,,0,1,0,Hospital de Clínicas Medical Center
+186,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/565.jpg,565,,0,1,0,Hospital de Clínicas Medical Center
+115,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/117.jpg,117,,0,1,0,Hospital de Clínicas Medical Center
+287,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/17607.jpg,17607,,0,0,1,Hospital de Clínicas Medical Center
+308,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/18238.jpg,18238,,0,1,0,Hospital de Clínicas Medical Center
+295,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/17989.jpg,17989,,0,0,1,Hospital de Clínicas Medical Center
+225,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/2745.jpg,2745,,0,1,0,Hospital de Clínicas Medical Center
+10,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/11.jpg,11,,1,0,0,Hospital de Clínicas Medical Center
+393,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0590RE.JPG,OD0590RE,,0,1,0,Hospital General Pediátrico Acosta Ñu Medical Center
+25,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/26.jpg,26,,1,0,0,Hospital de Clínicas Medical Center
+269,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/16382.jpg,16382,,0,0,1,Hospital de Clínicas Medical Center
+181,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/535.jpg,535,,0,1,0,Hospital de Clínicas Medical Center
+94,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/96.jpg,96,,0,0,1,Hospital de Clínicas Medical Center
+299,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0291RE.JPG,OD0291RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+156,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/158.jpg,158,,0,1,0,Hospital de Clínicas Medical Center
+377,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0554RE.JPG,OD0554RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+79,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/80.jpg,80,,1,0,0,Hospital de Clínicas Medical Center
+139,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/141.jpg,141,,0,0,1,Hospital de Clínicas Medical Center
+108,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/110.jpg,110,,0,1,0,Hospital de Clínicas Medical Center
+52,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/53.jpg,53,,1,0,0,Hospital de Clínicas Medical Center
+53,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/54.jpg,54,,1,0,0,Hospital de Clínicas Medical Center
+363,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0533RE.JPG,OD0533RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+150,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/152.jpg,152,,0,0,1,Hospital de Clínicas Medical Center
+223,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/2559.jpg,2559,,0,0,1,Hospital de Clínicas Medical Center
+267,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/16319.jpg,16319,,0,0,1,Hospital de Clínicas Medical Center
+28,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/29.jpg,29,,1,0,0,Hospital de Clínicas Medical Center
+276,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/IM0062RE.JPG,IM0062RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+230,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/3364.jpg,3364,,0,0,1,Hospital de Clínicas Medical Center
+154,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/156.jpg,156,,0,0,1,Hospital de Clínicas Medical Center
+355,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0514RE.JPG,OS0514RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+239,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/14743.jpg,14743,,0,1,0,Hospital de Clínicas Medical Center
+171,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/(747).jpg,(747),,0,1,0,Hospital de Clínicas Medical Center
+333,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0479RE.JPG,OD0479RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+189,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/693.jpg,693,,0,1,0,Hospital de Clínicas Medical Center
+204,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/1253.jpg,1253,,0,1,0,Hospital de Clínicas Medical Center
+124,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/126.jpg,126,,0,0,1,Hospital de Clínicas Medical Center
+39,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/40.jpg,40,,1,0,0,Hospital de Clínicas Medical Center
+60,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/61.jpg,61,,1,0,0,Hospital de Clínicas Medical Center
+106,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/108.jpg,108,,0,0,1,Hospital de Clínicas Medical Center
+126,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/128.jpg,128,,0,0,1,Hospital de Clínicas Medical Center
+174,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/291.jpg,291,,0,1,0,Hospital de Clínicas Medical Center
+26,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/27.jpg,27,,1,0,0,Hospital de Clínicas Medical Center
+228,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/3166.jpg,3166,,0,1,0,Hospital de Clínicas Medical Center
+303,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/18005.jpg,18005,,0,0,1,Hospital de Clínicas Medical Center
+76,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/77.jpg,77,,1,0,0,Hospital de Clínicas Medical Center
+294,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/17955.jpg,17955,,0,0,1,Hospital de Clínicas Medical Center
+152,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/154.jpg,154,,0,0,1,Hospital de Clínicas Medical Center
+67,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/68.jpg,68,,1,0,0,Hospital de Clínicas Medical Center
+37,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/38.jpg,38,,1,0,0,Hospital de Clínicas Medical Center
+143,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/145.jpg,145,,0,0,1,Hospital de Clínicas Medical Center
+136,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/138.jpg,138,,0,0,1,Hospital de Clínicas Medical Center
+313,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/18264.jpg,18264,,0,1,0,Hospital de Clínicas Medical Center
+367,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0525RE.JPG,OS0525RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+112,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/114.jpg,114,,0,1,0,Hospital de Clínicas Medical Center
+116,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/118.jpg,118,,0,1,0,Hospital de Clínicas Medical Center
+237,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/14735.jpg,14735,,0,1,0,Hospital de Clínicas Medical Center
+141,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/143.jpg,143,,0,1,0,Hospital de Clínicas Medical Center
+31,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/32.jpg,32,,1,0,0,Hospital de Clínicas Medical Center
+172,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/(749).jpg,(749),,0,1,0,Hospital de Clínicas Medical Center
+351,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0511RE.JPG,OD0511RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+240,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/14771.jpg,14771,,0,1,0,Hospital de Clínicas Medical Center
+325,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0340RE.JPG,OS0340RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+289,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/17613.jpg,17613,,0,0,1,Hospital de Clínicas Medical Center
+354,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0512RE.JPG,OS0512RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+281,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0285RE.JPG,OS0285RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+8,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/9.jpg,9,,1,0,0,Hospital de Clínicas Medical Center
+55,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/56.jpg,56,,1,0,0,Hospital de Clínicas Medical Center
+362,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0532RE.JPG,OD0532RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+387,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0564RE.JPG,OS0564RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+121,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/123.jpg,123,,0,0,1,Hospital de Clínicas Medical Center
+64,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/65.jpg,65,,1,0,0,Hospital de Clínicas Medical Center
+316,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0386RE.JPG,OD0386RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+253,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/15149.jpg,15149,,0,1,0,Hospital de Clínicas Medical Center
+265,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/16149.jpg,16149,,0,0,1,Hospital de Clínicas Medical Center
+350,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0494RE.JPG,OS0494RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+0,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/1.jpg,1,,1,0,0,Hospital de Clínicas Medical Center
+164,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/IM0157RE.JPG,IM0157RE,,0,1,0,Hospital General Pediátrico Acosta Ñu Medical Center
+202,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/1179.jpg,1179,,0,0,1,Hospital de Clínicas Medical Center
+183,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/557.jpg,557,,0,1,0,Hospital de Clínicas Medical Center
+175,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/299.jpg,299,,0,0,1,Hospital de Clínicas Medical Center
+311,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/18250.jpg,18250,,0,1,0,Hospital de Clínicas Medical Center
+127,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/129.jpg,129,,0,0,1,Hospital de Clínicas Medical Center
+302,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/17996.jpg,17996,,0,0,1,Hospital de Clínicas Medical Center
+207,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/1315.jpg,1315,,0,1,0,Hospital de Clínicas Medical Center
+66,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/67.jpg,67,,1,0,0,Hospital de Clínicas Medical Center
+358,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0519RE.JPG,OD0519RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+198,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/868.jpg,868,,0,0,1,Hospital de Clínicas Medical Center
+373,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0535RE.JPG,OS0535RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+226,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/2805.jpg,2805,,0,1,0,Hospital de Clínicas Medical Center
+329,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0395RE.JPG,OS0395RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+260,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/15817.jpg,15817,,0,0,1,Hospital de Clínicas Medical Center
+288,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/17608.jpg,17608,,0,0,1,Hospital de Clínicas Medical Center
+213,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/2078.jpg,2078,,0,1,0,Hospital de Clínicas Medical Center
+319,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0388RE.JPG,OS0388RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+128,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/130.jpg,130,,0,0,1,Hospital de Clínicas Medical Center
+332,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0398RE.JPG,OD0398RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+46,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/47.jpg,47,,1,0,0,Hospital de Clínicas Medical Center
+51,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/52.jpg,52,,1,0,0,Hospital de Clínicas Medical Center
+111,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/113.jpg,113,,0,0,1,Hospital de Clínicas Medical Center
+59,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/60.jpg,60,,1,0,0,Hospital de Clínicas Medical Center
+48,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/49.jpg,49,,1,0,0,Hospital de Clínicas Medical Center
+252,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/15136.jpg,15136,,0,0,1,Hospital de Clínicas Medical Center
+209,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/1751.jpg,1751,,0,1,0,Hospital de Clínicas Medical Center
+305,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/18103.jpg,18103,,0,0,1,Hospital de Clínicas Medical Center
+54,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/55.jpg,55,,1,0,0,Hospital de Clínicas Medical Center
+221,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/2478.jpg,2478,,0,1,0,Hospital de Clínicas Medical Center
+283,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/17430.jpg,17430,,0,1,0,Hospital de Clínicas Medical Center
+113,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/115.jpg,115,,0,0,1,Hospital de Clínicas Medical Center
+218,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/2312.jpg,2312,,0,0,1,Hospital de Clínicas Medical Center
+179,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/477.jpg,477,,0,0,1,Hospital de Clínicas Medical Center
+77,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/78.jpg,78,,1,0,0,Hospital de Clínicas Medical Center
+19,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/20.jpg,20,,1,0,0,Hospital de Clínicas Medical Center
+257,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/15294.jpg,15294,,0,0,1,Hospital de Clínicas Medical Center
+180,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/479.jpg,479,,0,1,0,Hospital de Clínicas Medical Center
+83,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/84.jpg,84,,0,1,0,Hospital de Clínicas Medical Center
+105,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/107.jpg,107,,0,0,1,Hospital de Clínicas Medical Center
+242,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/14796.jpg,14796,,0,1,0,Hospital de Clínicas Medical Center
+63,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/64.jpg,64,,1,0,0,Hospital de Clínicas Medical Center
+193,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/742.jpg,742,,0,0,1,Hospital de Clínicas Medical Center
+195,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/749.jpg,749,,0,1,0,Hospital de Clínicas Medical Center
+399,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0606RE.JPG,OS0606RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+312,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/18260.jpg,18260,,0,1,0,Hospital de Clínicas Medical Center
+320,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0389RE.JPG,OS0389RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+170,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/(742).jpg,(742),,0,0,1,Hospital de Clínicas Medical Center
+65,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/66.jpg,66,,1,0,0,Hospital de Clínicas Medical Center
+210,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/1833.jpg,1833,,0,0,1,Hospital de Clínicas Medical Center
+366,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0524RE.JPG,OS0524RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+57,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/58.jpg,58,,1,0,0,Hospital de Clínicas Medical Center
+388,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0574RE.JPG,OS0574RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+56,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/57.jpg,57,,1,0,0,Hospital de Clínicas Medical Center
+13,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/14.jpg,14,,1,0,0,Hospital de Clínicas Medical Center
+147,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/149.jpg,149,,0,1,0,Hospital de Clínicas Medical Center
+1,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/2.jpg,2,,1,0,0,Hospital de Clínicas Medical Center
+245,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/14815.jpg,14815,,0,0,1,Hospital de Clínicas Medical Center
+227,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/2957.jpg,2957,,0,1,0,Hospital de Clínicas Medical Center
+191,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/724.jpg,724,,0,0,1,Hospital de Clínicas Medical Center
+194,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/747.jpg,747,,0,0,1,Hospital de Clínicas Medical Center
+102,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/104.jpg,104,,0,1,0,Hospital de Clínicas Medical Center
+337,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0488RE.JPG,OD0488RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+182,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/540.jpg,540,,0,1,0,Hospital de Clínicas Medical Center
+251,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/15134.jpg,15134,,0,0,1,Hospital de Clínicas Medical Center
+304,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/18007.jpg,18007,,0,0,1,Hospital de Clínicas Medical Center
+90,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/92.jpg,92,,0,0,1,Hospital de Clínicas Medical Center
+216,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/2261.jpg,2261,,0,0,1,Hospital de Clínicas Medical Center
+134,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/136.jpg,136,,0,0,1,Hospital de Clínicas Medical Center
+49,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/50.jpg,50,,1,0,0,Hospital de Clínicas Medical Center
+20,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/21.jpg,21,,1,0,0,Hospital de Clínicas Medical Center
+259,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/15610.jpg,15610,,0,1,0,Hospital de Clínicas Medical Center
+357,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0518RE.JPG,OS0518RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+249,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/15094.jpg,15094,,0,1,0,Hospital de Clínicas Medical Center
+114,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/116.jpg,116,,0,1,0,Hospital de Clínicas Medical Center
+314,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0382RE.JPG,OD0382RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+284,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/17487.jpg,17487,,0,0,1,Hospital de Clínicas Medical Center
+167,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/IM0163RE.JPG,IM0163RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+372,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0534RE.JPG,OS0534RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+341,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0499RE.JPG,OD0499RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+268,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/16380.jpg,16380,,0,0,1,Hospital de Clínicas Medical Center
+212,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/2076.jpg,2076,,0,1,0,Hospital de Clínicas Medical Center
+211,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/1835.jpg,1835,,0,0,1,Hospital de Clínicas Medical Center
+5,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/6.jpg,6,,1,0,0,Hospital de Clínicas Medical Center
+254,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/15168.jpg,15168,,0,0,1,Hospital de Clínicas Medical Center
+356,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0516RE.JPG,OS0516RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+17,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/18.jpg,18,,1,0,0,Hospital de Clínicas Medical Center
+262,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/16096.jpg,16096,,0,1,0,Hospital de Clínicas Medical Center
+165,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/IM0159RE.JPG,IM0159RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+144,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/146.jpg,146,,0,1,0,Hospital de Clínicas Medical Center
+264,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/16132.jpg,16132,,0,1,0,Hospital de Clínicas Medical Center
+185,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/562.jpg,562,,0,0,1,Hospital de Clínicas Medical Center
+192,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/738.jpg,738,,0,0,1,Hospital de Clínicas Medical Center
+187,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/622.jpg,622,,0,0,1,Hospital de Clínicas Medical Center
+392,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0568RE.JPG,OS0568RE,,0,1,0,Hospital General Pediátrico Acosta Ñu Medical Center
+243,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/14804.jpg,14804,,0,0,1,Hospital de Clínicas Medical Center
+75,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/76.jpg,76,,1,0,0,Hospital de Clínicas Medical Center
+235,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/3680.jpg,3680,,0,0,1,Hospital de Clínicas Medical Center
+206,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/1303.jpg,1303,,0,1,0,Hospital de Clínicas Medical Center
+409,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0662RE.JPG,OS0662RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+12,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/13.jpg,13,,1,0,0,Hospital de Clínicas Medical Center
+101,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/103.jpg,103,,0,0,1,Hospital de Clínicas Medical Center
+140,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/142.jpg,142,,0,0,1,Hospital de Clínicas Medical Center
+407,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0660RE.JPG,OS0660RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+131,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/133.jpg,133,,0,1,0,Hospital de Clínicas Medical Center
+335,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0481RE.JPG,OD0481RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+324,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0342RE.JPG,OD0342RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+282,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/17123.jpg,17123,,0,0,1,Hospital de Clínicas Medical Center
+241,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/14777.jpg,14777,,0,0,1,Hospital de Clínicas Medical Center
+86,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/87.jpg,87,,0,0,1,Hospital de Clínicas Medical Center
+376,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0547RE.JPG,OD0547RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+379,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0556RE.JPG,OD0556RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+370,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0529RE.JPG,OS0529RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+123,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/125.jpg,125,,0,1,0,Hospital de Clínicas Medical Center
+369,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0527RE.JPG,OS0527RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+78,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/79.jpg,79,,1,0,0,Hospital de Clínicas Medical Center
+155,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/157.jpg,157,,0,0,1,Hospital de Clínicas Medical Center
+3,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/4.jpg,4,,1,0,0,Hospital de Clínicas Medical Center
+9,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/10.jpg,10,,1,0,0,Hospital de Clínicas Medical Center
+405,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0639RE.JPG,OS0639RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+270,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/16385.jpg,16385,,0,0,1,Hospital de Clínicas Medical Center
+271,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/16614.jpg,16614,,0,0,1,Hospital de Clínicas Medical Center
+29,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/30.jpg,30,,1,0,0,Hospital de Clínicas Medical Center
+74,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/75.jpg,75,,1,0,0,Hospital de Clínicas Medical Center
+23,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/24.jpg,24,,1,0,0,Hospital de Clínicas Medical Center
+41,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/42.jpg,42,,1,0,0,Hospital de Clínicas Medical Center
+87,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/88.jpg,88,,0,0,1,Hospital de Clínicas Medical Center
+382,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0553RE.JPG,OS0553RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+125,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/127.jpg,127,,0,0,1,Hospital de Clínicas Medical Center
+342,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0482RE.JPG,OS0482RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+246,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/15074.jpg,15074,,0,1,0,Hospital de Clínicas Medical Center
+45,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/46.jpg,46,,1,0,0,Hospital de Clínicas Medical Center
+68,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/69.jpg,69,,1,0,0,Hospital de Clínicas Medical Center
+292,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/17795.jpg,17795,,0,0,1,Hospital de Clínicas Medical Center
+208,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/1599.jpg,1599,,0,1,0,Hospital de Clínicas Medical Center
+286,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/17600.jpg,17600,,0,0,1,Hospital de Clínicas Medical Center
+203,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/1221.jpg,1221,,0,0,1,Hospital de Clínicas Medical Center
+321,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0390RE.JPG,OS0390RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+24,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/25.jpg,25,,1,0,0,Hospital de Clínicas Medical Center
+117,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/119.jpg,119,,0,1,0,Hospital de Clínicas Medical Center
+334,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0480RE.JPG,OD0480RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+184,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/559.jpg,559,,0,1,0,Hospital de Clínicas Medical Center
+163,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/IM0155RE.JPG,IM0155RE,,0,1,0,Hospital General Pediátrico Acosta Ñu Medical Center
+263,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/16127.jpg,16127,,0,1,0,Hospital de Clínicas Medical Center
+318,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0387RE.JPG,OS0387RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+234,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/3547.jpg,3547,,0,1,0,Hospital de Clínicas Medical Center
+21,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/22.jpg,22,,1,0,0,Hospital de Clínicas Medical Center
+346,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0487RE.JPG,OS0487RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+99,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/101.jpg,101,,0,1,0,Hospital de Clínicas Medical Center
+14,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/15.jpg,15,,1,0,0,Hospital de Clínicas Medical Center
+278,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/IM0226RE.JPG,IM0226RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+35,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/36.jpg,36,,1,0,0,Hospital de Clínicas Medical Center
+50,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/51.jpg,51,,1,0,0,Hospital de Clínicas Medical Center
+293,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/17796.jpg,17796,,0,0,1,Hospital de Clínicas Medical Center
+110,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/112.jpg,112,,0,0,1,Hospital de Clínicas Medical Center
+93,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/95.jpg,95,,0,1,0,Hospital de Clínicas Medical Center
+256,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/15173.jpg,15173,,0,1,0,Hospital de Clínicas Medical Center
+166,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/IM0162RE.JPG,IM0162RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+109,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/111.jpg,111,,0,0,1,Hospital de Clínicas Medical Center
+374,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0539RE.JPG,OS0539RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+169,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/IM0208RE 2.jpg,IM0208RE 2,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+98,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/100.jpg,100,,0,0,1,Hospital de Clínicas Medical Center
+340,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0497RE.JPG,OD0497RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+122,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/124.jpg,124,,0,0,1,Hospital de Clínicas Medical Center
+215,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/2095.jpg,2095,,0,0,1,Hospital de Clínicas Medical Center
+205,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/1255.jpg,1255,,0,1,0,Hospital de Clínicas Medical Center
+178,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/476.jpg,476,,0,0,1,Hospital de Clínicas Medical Center
+266,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/16214.jpg,16214,,0,1,0,Hospital de Clínicas Medical Center
+96,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/98.jpg,98,,0,0,1,Hospital de Clínicas Medical Center
+224,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/2698.jpg,2698,,0,0,1,Hospital de Clínicas Medical Center
+160,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/IM0087RE.JPG,IM0087RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+103,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/105.jpg,105,,0,1,0,Hospital de Clínicas Medical Center
+129,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/131.jpg,131,,0,0,1,Hospital de Clínicas Medical Center
+137,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/139.jpg,139,,0,0,1,Hospital de Clínicas Medical Center
+161,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/IM0146RE.JPG,IM0146RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+338,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0489RE.JPG,OD0489RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+158,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/160.jpg,160,,0,1,0,Hospital de Clínicas Medical Center
+220,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/2475.jpg,2475,,0,0,1,Hospital de Clínicas Medical Center
+100,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/102.jpg,102,,0,0,1,Hospital de Clínicas Medical Center
+176,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/425.jpg,425,,0,0,1,Hospital de Clínicas Medical Center
+291,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/17633.jpg,17633,,0,0,1,Hospital de Clínicas Medical Center
+15,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/16.jpg,16,,1,0,0,Hospital de Clínicas Medical Center
+44,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/45.jpg,45,,1,0,0,Hospital de Clínicas Medical Center
+42,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/43.jpg,43,,1,0,0,Hospital de Clínicas Medical Center
+277,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/IM0063RE.JPG,IM0063RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+398,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0605RE.JPG,OS0605RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+130,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/132.jpg,132,,0,0,1,Hospital de Clínicas Medical Center
+231,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/3429.jpg,3429,,0,1,0,Hospital de Clínicas Medical Center
+222,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/2556.jpg,2556,,0,0,1,Hospital de Clínicas Medical Center
+162,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/IM0151RE.JPG,IM0151RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+285,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/17598.jpg,17598,,0,0,1,Hospital de Clínicas Medical Center
+120,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/122.jpg,122,,0,0,1,Hospital de Clínicas Medical Center
+30,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/31.jpg,31,,1,0,0,Hospital de Clínicas Medical Center
+91,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/93.jpg,93,,0,1,0,Hospital de Clínicas Medical Center
+378,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0555RE.JPG,OD0555RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+326,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OS0344RE.JPG,OS0344RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+18,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/19.jpg,19,,1,0,0,Hospital de Clínicas Medical Center
+248,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/15090.jpg,15090,,0,0,1,Hospital de Clínicas Medical Center
+395,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0601RE.JPG,OD0601RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+196,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/784.jpg,784,,0,1,0,Hospital de Clínicas Medical Center
+73,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/74.jpg,74,,1,0,0,Hospital de Clínicas Medical Center
+396,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0603RE.JPG,OD0603RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+38,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/39.jpg,39,,1,0,0,Hospital de Clínicas Medical Center
+336,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0485RE.JPG,OD0485RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+84,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/85.jpg,85,,0,0,1,Hospital de Clínicas Medical Center
+391,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0567RE.JPG,OD0567RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+352,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0515RE.JPG,OD0515RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+142,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/144.jpg,144,,0,0,1,Hospital de Clínicas Medical Center
+394,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0591RE.JPG,OD0591RE,,0,1,0,Hospital General Pediátrico Acosta Ñu Medical Center
+275,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/IM0053RE.JPG,IM0053RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+104,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/106.jpg,106,,0,0,1,Hospital de Clínicas Medical Center
+411,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0658RE.JPG,OD0658RE,,0,0,1,Hospital General Pediátrico Acosta Ñu Medical Center
+400,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0607RE.JPG,OD0607RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center
+353,/home/68448133@nead.nebraska.edu/projects/models/finetune/clip_mlp/Ocular_Toxoplasmosis_Data_V3/images/OD0517RE.JPG,OD0517RE,,1,0,0,Hospital General Pediátrico Acosta Ñu Medical Center

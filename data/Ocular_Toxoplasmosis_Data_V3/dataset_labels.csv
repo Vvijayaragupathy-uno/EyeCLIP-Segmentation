@@ -1,0 +1,413 @@
+Image_name,Label,Source
+1.jpg,healthy,Hospital de Clínicas Medical Center
+2.jpg,healthy,Hospital de Clínicas Medical Center
+3.jpg,healthy,Hospital de Clínicas Medical Center
+4.jpg,healthy,Hospital de Clínicas Medical Center
+5.jpg,healthy,Hospital de Clínicas Medical Center
+6.jpg,healthy,Hospital de Clínicas Medical Center
+7.jpg,healthy,Hospital de Clínicas Medical Center
+8.jpg,healthy,Hospital de Clínicas Medical Center
+9.jpg,healthy,Hospital de Clínicas Medical Center
+10.jpg,healthy,Hospital de Clínicas Medical Center
+11.jpg,healthy,Hospital de Clínicas Medical Center
+12.jpg,healthy,Hospital de Clínicas Medical Center
+13.jpg,healthy,Hospital de Clínicas Medical Center
+14.jpg,healthy,Hospital de Clínicas Medical Center
+15.jpg,healthy,Hospital de Clínicas Medical Center
+16.jpg,healthy,Hospital de Clínicas Medical Center
+17.jpg,healthy,Hospital de Clínicas Medical Center
+18.jpg,healthy,Hospital de Clínicas Medical Center
+19.jpg,healthy,Hospital de Clínicas Medical Center
+20.jpg,healthy,Hospital de Clínicas Medical Center
+21.jpg,healthy,Hospital de Clínicas Medical Center
+22.jpg,healthy,Hospital de Clínicas Medical Center
+23.jpg,healthy,Hospital de Clínicas Medical Center
+24.jpg,healthy,Hospital de Clínicas Medical Center
+25.jpg,healthy,Hospital de Clínicas Medical Center
+26.jpg,healthy,Hospital de Clínicas Medical Center
+27.jpg,healthy,Hospital de Clínicas Medical Center
+28.jpg,healthy,Hospital de Clínicas Medical Center
+29.jpg,healthy,Hospital de Clínicas Medical Center
+30.jpg,healthy,Hospital de Clínicas Medical Center
+31.jpg,healthy,Hospital de Clínicas Medical Center
+32.jpg,healthy,Hospital de Clínicas Medical Center
+33.jpg,healthy,Hospital de Clínicas Medical Center
+34.jpg,healthy,Hospital de Clínicas Medical Center
+35.jpg,healthy,Hospital de Clínicas Medical Center
+36.jpg,healthy,Hospital de Clínicas Medical Center
+37.jpg,healthy,Hospital de Clínicas Medical Center
+38.jpg,healthy,Hospital de Clínicas Medical Center
+39.jpg,healthy,Hospital de Clínicas Medical Center
+40.jpg,healthy,Hospital de Clínicas Medical Center
+41.jpg,healthy,Hospital de Clínicas Medical Center
+42.jpg,healthy,Hospital de Clínicas Medical Center
+43.jpg,healthy,Hospital de Clínicas Medical Center
+44.jpg,healthy,Hospital de Clínicas Medical Center
+45.jpg,healthy,Hospital de Clínicas Medical Center
+46.jpg,healthy,Hospital de Clínicas Medical Center
+47.jpg,healthy,Hospital de Clínicas Medical Center
+48.jpg,healthy,Hospital de Clínicas Medical Center
+49.jpg,healthy,Hospital de Clínicas Medical Center
+50.jpg,healthy,Hospital de Clínicas Medical Center
+51.jpg,healthy,Hospital de Clínicas Medical Center
+52.jpg,healthy,Hospital de Clínicas Medical Center
+53.jpg,healthy,Hospital de Clínicas Medical Center
+54.jpg,healthy,Hospital de Clínicas Medical Center
+55.jpg,healthy,Hospital de Clínicas Medical Center
+56.jpg,healthy,Hospital de Clínicas Medical Center
+57.jpg,healthy,Hospital de Clínicas Medical Center
+58.jpg,healthy,Hospital de Clínicas Medical Center
+59.jpg,healthy,Hospital de Clínicas Medical Center
+60.jpg,healthy,Hospital de Clínicas Medical Center
+61.jpg,healthy,Hospital de Clínicas Medical Center
+62.jpg,healthy,Hospital de Clínicas Medical Center
+63.jpg,healthy,Hospital de Clínicas Medical Center
+64.jpg,healthy,Hospital de Clínicas Medical Center
+65.jpg,healthy,Hospital de Clínicas Medical Center
+66.jpg,healthy,Hospital de Clínicas Medical Center
+67.jpg,healthy,Hospital de Clínicas Medical Center
+68.jpg,healthy,Hospital de Clínicas Medical Center
+69.jpg,healthy,Hospital de Clínicas Medical Center
+70.jpg,healthy,Hospital de Clínicas Medical Center
+71.jpg,healthy,Hospital de Clínicas Medical Center
+72.jpg,healthy,Hospital de Clínicas Medical Center
+73.jpg,healthy,Hospital de Clínicas Medical Center
+74.jpg,healthy,Hospital de Clínicas Medical Center
+75.jpg,healthy,Hospital de Clínicas Medical Center
+76.jpg,healthy,Hospital de Clínicas Medical Center
+77.jpg,healthy,Hospital de Clínicas Medical Center
+78.jpg,healthy,Hospital de Clínicas Medical Center
+79.jpg,healthy,Hospital de Clínicas Medical Center
+80.jpg,healthy,Hospital de Clínicas Medical Center
+81.jpg,inactive,Hospital de Clínicas Medical Center
+82.jpg,inactive,Hospital de Clínicas Medical Center
+83.jpg,inactive,Hospital de Clínicas Medical Center
+84.jpg,active,Hospital de Clínicas Medical Center
+85.jpg,inactive,Hospital de Clínicas Medical Center
+86.jpg,active,Hospital de Clínicas Medical Center
+87.jpg,inactive,Hospital de Clínicas Medical Center
+88.jpg,inactive,Hospital de Clínicas Medical Center
+89.jpg,inactive,Hospital de Clínicas Medical Center
+91.jpg,active,Hospital de Clínicas Medical Center
+92.jpg,inactive,Hospital de Clínicas Medical Center
+93.jpg,active,Hospital de Clínicas Medical Center
+94.jpg,inactive,Hospital de Clínicas Medical Center
+95.jpg,active,Hospital de Clínicas Medical Center
+96.jpg,inactive,Hospital de Clínicas Medical Center
+97.jpg,inactive,Hospital de Clínicas Medical Center
+98.jpg,inactive,Hospital de Clínicas Medical Center
+99.jpg,inactive,Hospital de Clínicas Medical Center
+100.jpg,inactive,Hospital de Clínicas Medical Center
+101.jpg,active,Hospital de Clínicas Medical Center
+102.jpg,inactive,Hospital de Clínicas Medical Center
+103.jpg,inactive,Hospital de Clínicas Medical Center
+104.jpg,active,Hospital de Clínicas Medical Center
+105.jpg,active,Hospital de Clínicas Medical Center
+106.jpg,inactive,Hospital de Clínicas Medical Center
+107.jpg,inactive,Hospital de Clínicas Medical Center
+108.jpg,inactive,Hospital de Clínicas Medical Center
+109.jpg,inactive,Hospital de Clínicas Medical Center
+110.jpg,active,Hospital de Clínicas Medical Center
+111.jpg,inactive,Hospital de Clínicas Medical Center
+112.jpg,inactive,Hospital de Clínicas Medical Center
+113.jpg,inactive,Hospital de Clínicas Medical Center
+114.jpg,active,Hospital de Clínicas Medical Center
+115.jpg,inactive,Hospital de Clínicas Medical Center
+116.jpg,active,Hospital de Clínicas Medical Center
+117.jpg,active,Hospital de Clínicas Medical Center
+118.jpg,active,Hospital de Clínicas Medical Center
+119.jpg,active,Hospital de Clínicas Medical Center
+120.jpg,active,Hospital de Clínicas Medical Center
+121.jpg,inactive,Hospital de Clínicas Medical Center
+122.jpg,inactive,Hospital de Clínicas Medical Center
+123.jpg,inactive,Hospital de Clínicas Medical Center
+124.jpg,inactive,Hospital de Clínicas Medical Center
+125.jpg,active,Hospital de Clínicas Medical Center
+126.jpg,inactive,Hospital de Clínicas Medical Center
+127.jpg,inactive,Hospital de Clínicas Medical Center
+128.jpg,inactive,Hospital de Clínicas Medical Center
+129.jpg,inactive,Hospital de Clínicas Medical Center
+130.jpg,inactive,Hospital de Clínicas Medical Center
+131.jpg,inactive,Hospital de Clínicas Medical Center
+132.jpg,inactive,Hospital de Clínicas Medical Center
+133.jpg,active,Hospital de Clínicas Medical Center
+134.jpg,inactive,Hospital de Clínicas Medical Center
+135.jpg,inactive,Hospital de Clínicas Medical Center
+136.jpg,inactive,Hospital de Clínicas Medical Center
+137.jpg,inactive,Hospital de Clínicas Medical Center
+138.jpg,inactive,Hospital de Clínicas Medical Center
+139.jpg,inactive,Hospital de Clínicas Medical Center
+140.jpg,inactive,Hospital de Clínicas Medical Center
+141.jpg,inactive,Hospital de Clínicas Medical Center
+142.jpg,inactive,Hospital de Clínicas Medical Center
+143.jpg,active,Hospital de Clínicas Medical Center
+144.jpg,inactive,Hospital de Clínicas Medical Center
+145.jpg,inactive,Hospital de Clínicas Medical Center
+146.jpg,active,Hospital de Clínicas Medical Center
+147.jpg,inactive,Hospital de Clínicas Medical Center
+148.jpg,inactive,Hospital de Clínicas Medical Center
+149.jpg,active,Hospital de Clínicas Medical Center
+150.jpg,active,Hospital de Clínicas Medical Center
+151.jpg,active,Hospital de Clínicas Medical Center
+152.jpg,inactive,Hospital de Clínicas Medical Center
+153.jpg,inactive,Hospital de Clínicas Medical Center
+154.jpg,inactive,Hospital de Clínicas Medical Center
+155.jpg,inactive,Hospital de Clínicas Medical Center
+156.jpg,inactive,Hospital de Clínicas Medical Center
+157.jpg,inactive,Hospital de Clínicas Medical Center
+158.jpg,active,Hospital de Clínicas Medical Center
+159.jpg,active,Hospital de Clínicas Medical Center
+160.jpg,active,Hospital de Clínicas Medical Center
+IM0085RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+IM0087RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+IM0146RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+IM0151RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+IM0155RE.JPG,active,Hospital General Pediátrico Acosta Ñu Medical Center
+IM0157RE.JPG,active,Hospital General Pediátrico Acosta Ñu Medical Center
+IM0159RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+IM0162RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+IM0163RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+IM0203RE 2.jpg,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+IM0208RE 2.jpg,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+(742).jpg,inactive,Hospital de Clínicas Medical Center
+(747).jpg,active,Hospital de Clínicas Medical Center
+(749).jpg,active,Hospital de Clínicas Medical Center
+248.jpg,active,Hospital de Clínicas Medical Center
+291.jpg,active,Hospital de Clínicas Medical Center
+299.jpg,inactive,Hospital de Clínicas Medical Center
+425.jpg,inactive,Hospital de Clínicas Medical Center
+474.jpg,inactive,Hospital de Clínicas Medical Center
+476.jpg,inactive,Hospital de Clínicas Medical Center
+477.jpg,inactive,Hospital de Clínicas Medical Center
+479.jpg,active,Hospital de Clínicas Medical Center
+535.jpg,active,Hospital de Clínicas Medical Center
+540.jpg,active,Hospital de Clínicas Medical Center
+557.jpg,active,Hospital de Clínicas Medical Center
+559.jpg,active,Hospital de Clínicas Medical Center
+562.jpg,inactive,Hospital de Clínicas Medical Center
+565.jpg,active,Hospital de Clínicas Medical Center
+622.jpg,inactive,Hospital de Clínicas Medical Center
+625.jpg,active,Hospital de Clínicas Medical Center
+693.jpg,active,Hospital de Clínicas Medical Center
+696.jpg,inactive,Hospital de Clínicas Medical Center
+724.jpg,inactive,Hospital de Clínicas Medical Center
+738.jpg,inactive,Hospital de Clínicas Medical Center
+742.jpg,inactive,Hospital de Clínicas Medical Center
+747.jpg,inactive,Hospital de Clínicas Medical Center
+749.jpg,active,Hospital de Clínicas Medical Center
+784.jpg,active,Hospital de Clínicas Medical Center
+857.jpg,active,Hospital de Clínicas Medical Center
+868.jpg,inactive,Hospital de Clínicas Medical Center
+879.jpg,inactive,Hospital de Clínicas Medical Center
+943.jpg,active,Hospital de Clínicas Medical Center
+947.jpg,inactive,Hospital de Clínicas Medical Center
+1179.jpg,inactive,Hospital de Clínicas Medical Center
+1221.jpg,inactive,Hospital de Clínicas Medical Center
+1253.jpg,active,Hospital de Clínicas Medical Center
+1255.jpg,active,Hospital de Clínicas Medical Center
+1303.jpg,active,Hospital de Clínicas Medical Center
+1315.jpg,active,Hospital de Clínicas Medical Center
+1599.jpg,active,Hospital de Clínicas Medical Center
+1751.jpg,active,Hospital de Clínicas Medical Center
+1833.jpg,inactive,Hospital de Clínicas Medical Center
+1835.jpg,inactive,Hospital de Clínicas Medical Center
+2076.jpg,active,Hospital de Clínicas Medical Center
+2078.jpg,active,Hospital de Clínicas Medical Center
+2092.jpg,inactive,Hospital de Clínicas Medical Center
+2095.jpg,inactive,Hospital de Clínicas Medical Center
+2261.jpg,inactive,Hospital de Clínicas Medical Center
+2275.jpg,active,Hospital de Clínicas Medical Center
+2312.jpg,inactive,Hospital de Clínicas Medical Center
+2336.jpg,active,Hospital de Clínicas Medical Center
+2475.jpg,inactive,Hospital de Clínicas Medical Center
+2478.jpg,active,Hospital de Clínicas Medical Center
+2556.jpg,inactive,Hospital de Clínicas Medical Center
+2559.jpg,inactive,Hospital de Clínicas Medical Center
+2698.jpg,inactive,Hospital de Clínicas Medical Center
+2745.jpg,active,Hospital de Clínicas Medical Center
+2805.jpg,active,Hospital de Clínicas Medical Center
+2957.jpg,active,Hospital de Clínicas Medical Center
+3166.jpg,active,Hospital de Clínicas Medical Center
+3174.jpg,inactive,Hospital de Clínicas Medical Center
+3364.jpg,inactive,Hospital de Clínicas Medical Center
+3429.jpg,active,Hospital de Clínicas Medical Center
+3430.jpg,active,Hospital de Clínicas Medical Center
+3544.jpg,active,Hospital de Clínicas Medical Center
+3547.jpg,active,Hospital de Clínicas Medical Center
+3680.jpg,inactive,Hospital de Clínicas Medical Center
+3698.jpg,inactive,Hospital de Clínicas Medical Center
+14735.jpg,active,Hospital de Clínicas Medical Center
+14741.jpg,active,Hospital de Clínicas Medical Center
+14743.jpg,active,Hospital de Clínicas Medical Center
+14771.jpg,active,Hospital de Clínicas Medical Center
+14777.jpg,inactive,Hospital de Clínicas Medical Center
+14796.jpg,active,Hospital de Clínicas Medical Center
+14804.jpg,inactive,Hospital de Clínicas Medical Center
+14811.jpg,inactive,Hospital de Clínicas Medical Center
+14815.jpg,inactive,Hospital de Clínicas Medical Center
+15074.jpg,active,Hospital de Clínicas Medical Center
+14937.jpg,active,Hospital de Clínicas Medical Center
+15090.jpg,inactive,Hospital de Clínicas Medical Center
+15094.jpg,active,Hospital de Clínicas Medical Center
+15097.jpg,inactive,Hospital de Clínicas Medical Center
+15134.jpg,inactive,Hospital de Clínicas Medical Center
+15136.jpg,inactive,Hospital de Clínicas Medical Center
+15149.jpg,active,Hospital de Clínicas Medical Center
+15168.jpg,inactive,Hospital de Clínicas Medical Center
+15170.jpg,active,Hospital de Clínicas Medical Center
+15173.jpg,active,Hospital de Clínicas Medical Center
+15294.jpg,inactive,Hospital de Clínicas Medical Center
+15410.jpg,inactive,Hospital de Clínicas Medical Center
+15610.jpg,active,Hospital de Clínicas Medical Center
+15817.jpg,inactive,Hospital de Clínicas Medical Center
+15996.jpg,active,Hospital de Clínicas Medical Center
+16096.jpg,active,Hospital de Clínicas Medical Center
+16127.jpg,active,Hospital de Clínicas Medical Center
+16132.jpg,active,Hospital de Clínicas Medical Center
+16149.jpg,inactive,Hospital de Clínicas Medical Center
+16214.jpg,active,Hospital de Clínicas Medical Center
+16319.jpg,inactive,Hospital de Clínicas Medical Center
+16380.jpg,inactive,Hospital de Clínicas Medical Center
+16382.jpg,inactive,Hospital de Clínicas Medical Center
+16385.jpg,inactive,Hospital de Clínicas Medical Center
+16614.jpg,inactive,Hospital de Clínicas Medical Center
+16627.jpg,inactive,Hospital de Clínicas Medical Center
+16641.jpg,active,Hospital de Clínicas Medical Center
+17117.jpg,active,Hospital de Clínicas Medical Center
+IM0053RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+IM0062RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+IM0063RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+IM0226RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+IM0228RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0284RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0285RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+17123.jpg,inactive,Hospital de Clínicas Medical Center
+17430.jpg,active,Hospital de Clínicas Medical Center
+17487.jpg,inactive,Hospital de Clínicas Medical Center
+17598.jpg,inactive,Hospital de Clínicas Medical Center
+17600.jpg,inactive,Hospital de Clínicas Medical Center
+17607.jpg,inactive,Hospital de Clínicas Medical Center
+17608.jpg,inactive,Hospital de Clínicas Medical Center
+17613.jpg,inactive,Hospital de Clínicas Medical Center
+17619.jpg,inactive,Hospital de Clínicas Medical Center
+17633.jpg,inactive,Hospital de Clínicas Medical Center
+17795.jpg,inactive,Hospital de Clínicas Medical Center
+17796.jpg,inactive,Hospital de Clínicas Medical Center
+17955.jpg,inactive,Hospital de Clínicas Medical Center
+17989.jpg,inactive,Hospital de Clínicas Medical Center
+17992.jpg,inactive,Hospital de Clínicas Medical Center
+OS0293RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0287RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0291RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0294RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0295RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+17996.jpg,inactive,Hospital de Clínicas Medical Center
+18005.jpg,inactive,Hospital de Clínicas Medical Center
+18007.jpg,inactive,Hospital de Clínicas Medical Center
+18103.jpg,inactive,Hospital de Clínicas Medical Center
+18107.jpg,inactive,Hospital de Clínicas Medical Center
+18236.jpg,active,Hospital de Clínicas Medical Center
+18238.jpg,active,Hospital de Clínicas Medical Center
+18246.jpg,active,Hospital de Clínicas Medical Center
+18248.jpg,active,Hospital de Clínicas Medical Center
+18250.jpg,active,Hospital de Clínicas Medical Center
+18260.jpg,active,Hospital de Clínicas Medical Center
+18264.jpg,active,Hospital de Clínicas Medical Center
+OD0382RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0383RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0386RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0385RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0387RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0388RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0389RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0390RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0334RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0335RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0342RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0340RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0344RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0353RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0396RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0395RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0415RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0413RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0398RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0479RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0480RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0481RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0485RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0488RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0489RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0492RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0497RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0499RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0482RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0483RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0484RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0486RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0487RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0490RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0491RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0493RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0494RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0511RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0515RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0517RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0512RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0514RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0516RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0518RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0519RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0520RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0522RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0528RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0532RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0533RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0538RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0523RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0524RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0525RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0526RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0527RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0529RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0531RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0534RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0535RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0539RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0546RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0547RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0554RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0555RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0556RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0548RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0550RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0553RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0557RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0558RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0565RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0563RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0564RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0574RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0573RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0575RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0567RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0568RE.JPG,active,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0590RE.JPG,active,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0591RE.JPG,active,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0601RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0603RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0592RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0605RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0606RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0607RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0608RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0640RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0631RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0635RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0639RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0659RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0660RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0661RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0662RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
+OS0609RE.JPG,healthy,Hospital General Pediátrico Acosta Ñu Medical Center
+OD0658RE.JPG,inactive,Hospital General Pediátrico Acosta Ñu Medical Center
