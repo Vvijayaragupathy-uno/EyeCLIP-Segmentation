@@ -1,6 +1,18 @@
 
 import os
 import torch
+
+# Compatibility patch for older timm versions
+try:
+    import torch._six
+except ImportError:
+    import types
+    import collections.abc
+    torch._six = types.ModuleType("torch._six")
+    torch._six.container_abcs = collections.abc
+    import sys
+    sys.modules["torch._six"] = torch._six
+
 from torch.utils.data import DataLoader
 from torchvision import transforms
 import eyeclip

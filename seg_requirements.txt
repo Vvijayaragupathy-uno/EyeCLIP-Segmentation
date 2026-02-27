@@ -8,3 +8,5 @@ scikit-learn
 pycm
 matplotlib
 timm==0.3.2
+ftfy
+regex
